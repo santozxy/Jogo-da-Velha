@@ -1,4 +1,4 @@
-# Jogo-da-Velha com Javascript
+# Jogo da Velha 👵
 
 ### Tecnologias usadas 🖥️:
 * [HTML básico](https://www.w3schools.com/html/)
